@@ -187,14 +187,14 @@ body{
     flex-direction: column;
 }
 .hero .hero-img{
-    height: 20%;
+    height: 50%;
     width: auto;
     position: relative;
     padding-bottom: 40px;
 }
 
 .hero-img img{
-    width: 50%;
+    width: 70%;
     z-index: 2;
 }
 
